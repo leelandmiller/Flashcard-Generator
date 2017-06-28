@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Node FlashCard Generator - Backend",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leelandmiller/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "flashcard",
+    "flashcards",
+    "flashcard",
+    "generator"
+  ],
+  "author": "Leeland Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leelandmiller/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/leelandmiller/Flashcard-Generator#readme"
+}
